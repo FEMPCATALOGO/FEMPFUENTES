@@ -20,16 +20,16 @@ defaults:
       
       
 author:
-  name   : "Bicicleta"
-  avatar : "img/bicicleta.png"
-  bio    : "Vocabulario para la representación de datos sobre el sistema de bicicleta pública."
+  name   : "Fuentes de agua de beber"
+  avatar : "img/fuentes.png"
+  bio    : "Vocabulario para la representación de datos sobre las fuentes de agua potable."
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"
-      url: "http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html"
+      url: "https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/CiudadesAbiertas/vocab-transporte-bicicleta-publica"
+      url: "https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable"
 
 
 
