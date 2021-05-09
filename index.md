@@ -29,7 +29,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Urbanismo e infraestructuras | Innexistente | *[Página web]()* *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable/issues)*   | Vocabulario para la representación de datos sobre las fuentes de agua potable.  | |  | |  |    |
+| Urbanismo e infraestructuras | Inexistente | *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable)*  |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable/issues)*   | Vocabulario para la representación de datos sobre las fuentes de agua potable.  | |  | |  |    |
  
  
   
