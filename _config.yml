@@ -24,9 +24,6 @@ author:
   avatar : "img/fuentes.png"
   bio    : "Vocabulario para la representación de datos sobre las fuentes de agua potable."
   links:
-    - label: "Página web"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/urbanismo-infraestructuras-fuentes-agua-potable"
